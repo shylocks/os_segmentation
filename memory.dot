@@ -1,0 +1,39 @@
+
+digraph G {
+    nodesep=.1;
+    ranksep=.3;
+    rankdir=LR;
+    node [penwidth="0.5", shape=box, width=.1, height=.1];
+    
+// DICT
+node2664391342840 [margin="0.03", color="#444443", fontcolor="#444443", fontname="Microsoft Yahei", style=filled, fillcolor="#fefecd", label=<<table BORDER="0" CELLPADDING="0" CELLBORDER="1" CELLSPACING="0">
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td port="7_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'0K-26K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="7" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> '进程1:分段7'</font></td>
+</tr>
+<tr><td port="0_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'27K-31K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="0" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> 'NULL'</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td port="1_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'32K-43K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="1" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> '进程1:分段0'</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td port="2_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'44K-62K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="2" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> '进程1:分段2'</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td port="3_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'63K-63K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="3" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> '进程1:分段3'</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td port="4_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'64K-70K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="4" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> '进程1:分段4'</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td port="5_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'71K-86K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="5" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> '进程1:分段5'</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td port="6_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'87K-109K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="6" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> '进程1:分段6'</font></td>
+</tr>
+<tr><td colspan="3" cellpadding="1" border="0" bgcolor="#fefecd"></td></tr><tr><td port="8_label" cellspacing="0" cellpadding="0" bgcolor="#fefecd" border="0" align="right"><font face="Microsoft Yahei" color="#444443" point-size="11">'109K-128K' </font></td>
+<td cellpadding="0" border="0" valign="bottom"><font color="#444443" point-size="9">&rarr;</font></td><td port="8" cellspacing="0" cellpadding="1" bgcolor="#fefecd" border="0" align="left"><font color="#444443" point-size="11"> 'NULL'</font></td>
+</tr>
+</table>
+>];
+}
